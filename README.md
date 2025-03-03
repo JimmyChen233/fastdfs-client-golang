@@ -1,1 +1,1 @@
-# go-fastdfs
+# fastdfs-client-golang
